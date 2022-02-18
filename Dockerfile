@@ -1,1 +1,1 @@
-From quay.io/k8scsi/csi-resizer:v0.5.0
+From k8s.gcr.io/sig-storage/csi-resizer:v1.0.1
